@@ -1,0 +1,38 @@
+
+.name{
+    font-size: 60px;
+    
+   }
+
+   .card{
+       border-radius: 5px;
+       font-size: 50px;
+       text-align: center;
+       font-weight: bold;
+       background-color: #292d3a;
+       color: white;
+       height: 20rem;
+       padding: 40px;
+       displa: ;
+   }
+
+.second{
+       background-color: #ff6557;
+       color: white;
+       border-radius: 2px;
+       padding: 5px;
+   }
+
+   .hour{
+      background-color: #23b674;
+     border-radius: 2px;
+     padding: 5px;
+   }
+
+   .minute{
+       background-color: #fcbb54;
+       border-radius: 2px;
+       padding: 5px;
+       color: white;
+       
+   }
